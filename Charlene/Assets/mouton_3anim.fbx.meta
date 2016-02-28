@@ -1,0 +1,828 @@
+fileFormatVersion: 2
+guid: f17a53ba8c270044a9c21b87c62071cd
+timeCreated: 1456251163
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Bone.008
+    100004: Camera
+    100006: Cou
+    100008: Dos
+    100010: Fesses
+    100012: Lamp
+    100014: Mouton
+    100016: //RootNode
+    100018: Oreille D.
+    100020: Oreille D._end
+    100022: Oreille G.
+    100024: Oreille G._end
+    100026: P. Ar. Dr. B.
+    100028: P. Ar. Dr. B._end
+    100030: P. Ar. Dr. H.
+    100032: P. Ar. G. B.
+    100034: P. Ar. G. B._end
+    100036: P. Ar. G. H.
+    100038: P. Av. Dr. B.
+    100040: P. Av. Dr. B._end
+    100042: P. Av. Dr. H..001
+    100044: P. Av. G. B..
+    100046: P. Av. G. B.._end
+    100048: P. Av. G. H.
+    100050: Tete
+    100052: Tete_end
+    100054: "Trach\xE9e"
+    400000: Armature
+    400002: Bone.008
+    400004: Camera
+    400006: Cou
+    400008: Dos
+    400010: Fesses
+    400012: Lamp
+    400014: Mouton
+    400016: //RootNode
+    400018: Oreille D.
+    400020: Oreille D._end
+    400022: Oreille G.
+    400024: Oreille G._end
+    400026: P. Ar. Dr. B.
+    400028: P. Ar. Dr. B._end
+    400030: P. Ar. Dr. H.
+    400032: P. Ar. G. B.
+    400034: P. Ar. G. B._end
+    400036: P. Ar. G. H.
+    400038: P. Av. Dr. B.
+    400040: P. Av. Dr. B._end
+    400042: P. Av. Dr. H..001
+    400044: P. Av. G. B..
+    400046: P. Av. G. B.._end
+    400048: P. Av. G. H.
+    400050: Tete
+    400052: Tete_end
+    400054: "Trach\xE9e"
+    4300000: Mouton
+    7400000: trottrotte
+    7400002: Saut__haut
+    7400004: Ballade
+    7400006: Armature|Action
+    7400008: Armature|Ballade
+    7400010: Armature|Saut
+    7400012: Armature|Saut__haut
+    7400014: Armature|trottrotte
+    7400016: Ballade0
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Mouton
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Ballade0
+      takeName: Ballade
+      firstFrame: 0
+      lastFrame: 120
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone.008
+        weight: 1
+      - path: Armature/Bone.008/Dos
+        weight: 1
+      - path: Armature/Bone.008/Dos/Cou
+        weight: 1
+      - path: Armature/Bone.008/Dos/Cou/Oreille D.
+        weight: 1
+      - path: Armature/Bone.008/Dos/Cou/Oreille D./Oreille D._end
+        weight: 1
+      - path: Armature/Bone.008/Dos/Cou/Oreille G.
+        weight: 1
+      - path: Armature/Bone.008/Dos/Cou/Oreille G./Oreille G._end
+        weight: 1
+      - path: Armature/Bone.008/Dos/Cou/Tete
+        weight: 1
+      - path: Armature/Bone.008/Dos/Cou/Tete/Tete_end
+        weight: 1
+      - path: "Armature/Bone.008/Dos/Trach\xE9e"
+        weight: 1
+      - path: "Armature/Bone.008/Dos/Trach\xE9e/P. Av. Dr. H..001"
+        weight: 1
+      - path: "Armature/Bone.008/Dos/Trach\xE9e/P. Av. Dr. H..001/P. Av. Dr. B."
+        weight: 1
+      - path: "Armature/Bone.008/Dos/Trach\xE9e/P. Av. Dr. H..001/P. Av. Dr. B./P.
+          Av. Dr. B._end"
+        weight: 1
+      - path: "Armature/Bone.008/Dos/Trach\xE9e/P. Av. G. H."
+        weight: 1
+      - path: "Armature/Bone.008/Dos/Trach\xE9e/P. Av. G. H./P. Av. G. B.."
+        weight: 1
+      - path: "Armature/Bone.008/Dos/Trach\xE9e/P. Av. G. H./P. Av. G. B../P. Av.
+          G. B.._end"
+        weight: 1
+      - path: Armature/Bone.008/Fesses
+        weight: 1
+      - path: Armature/Bone.008/Fesses/P. Ar. Dr. H.
+        weight: 1
+      - path: Armature/Bone.008/Fesses/P. Ar. Dr. H./P. Ar. Dr. B.
+        weight: 1
+      - path: Armature/Bone.008/Fesses/P. Ar. Dr. H./P. Ar. Dr. B./P. Ar. Dr. B._end
+        weight: 1
+      - path: Armature/Bone.008/Fesses/P. Ar. G. H.
+        weight: 1
+      - path: Armature/Bone.008/Fesses/P. Ar. G. H./P. Ar. G. B.
+        weight: 1
+      - path: Armature/Bone.008/Fesses/P. Ar. G. H./P. Ar. G. B./P. Ar. G. B._end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Mouton
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Saut__haut
+      takeName: Saut__haut
+      firstFrame: 0
+      lastFrame: 52
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone.008
+        weight: 1
+      - path: Armature/Bone.008/Dos
+        weight: 1
+      - path: Armature/Bone.008/Dos/Cou
+        weight: 1
+      - path: Armature/Bone.008/Dos/Cou/Oreille D.
+        weight: 1
+      - path: Armature/Bone.008/Dos/Cou/Oreille D./Oreille D._end
+        weight: 1
+      - path: Armature/Bone.008/Dos/Cou/Oreille G.
+        weight: 1
+      - path: Armature/Bone.008/Dos/Cou/Oreille G./Oreille G._end
+        weight: 1
+      - path: Armature/Bone.008/Dos/Cou/Tete
+        weight: 1
+      - path: Armature/Bone.008/Dos/Cou/Tete/Tete_end
+        weight: 1
+      - path: "Armature/Bone.008/Dos/Trach\xE9e"
+        weight: 1
+      - path: "Armature/Bone.008/Dos/Trach\xE9e/P. Av. Dr. H..001"
+        weight: 1
+      - path: "Armature/Bone.008/Dos/Trach\xE9e/P. Av. Dr. H..001/P. Av. Dr. B."
+        weight: 1
+      - path: "Armature/Bone.008/Dos/Trach\xE9e/P. Av. Dr. H..001/P. Av. Dr. B./P.
+          Av. Dr. B._end"
+        weight: 1
+      - path: "Armature/Bone.008/Dos/Trach\xE9e/P. Av. G. H."
+        weight: 1
+      - path: "Armature/Bone.008/Dos/Trach\xE9e/P. Av. G. H./P. Av. G. B.."
+        weight: 1
+      - path: "Armature/Bone.008/Dos/Trach\xE9e/P. Av. G. H./P. Av. G. B../P. Av.
+          G. B.._end"
+        weight: 1
+      - path: Armature/Bone.008/Fesses
+        weight: 1
+      - path: Armature/Bone.008/Fesses/P. Ar. Dr. H.
+        weight: 1
+      - path: Armature/Bone.008/Fesses/P. Ar. Dr. H./P. Ar. Dr. B.
+        weight: 1
+      - path: Armature/Bone.008/Fesses/P. Ar. Dr. H./P. Ar. Dr. B./P. Ar. Dr. B._end
+        weight: 1
+      - path: Armature/Bone.008/Fesses/P. Ar. G. H.
+        weight: 1
+      - path: Armature/Bone.008/Fesses/P. Ar. G. H./P. Ar. G. B.
+        weight: 1
+      - path: Armature/Bone.008/Fesses/P. Ar. G. H./P. Ar. G. B./P. Ar. G. B._end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Mouton
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Ballade
+      takeName: Ballade
+      firstFrame: 0
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone.008
+        weight: 1
+      - path: Armature/Bone.008/Dos
+        weight: 1
+      - path: Armature/Bone.008/Dos/Cou
+        weight: 1
+      - path: Armature/Bone.008/Dos/Cou/Oreille D.
+        weight: 1
+      - path: Armature/Bone.008/Dos/Cou/Oreille D./Oreille D._end
+        weight: 1
+      - path: Armature/Bone.008/Dos/Cou/Oreille G.
+        weight: 1
+      - path: Armature/Bone.008/Dos/Cou/Oreille G./Oreille G._end
+        weight: 1
+      - path: Armature/Bone.008/Dos/Cou/Tete
+        weight: 1
+      - path: Armature/Bone.008/Dos/Cou/Tete/Tete_end
+        weight: 1
+      - path: "Armature/Bone.008/Dos/Trach\xE9e"
+        weight: 1
+      - path: "Armature/Bone.008/Dos/Trach\xE9e/P. Av. Dr. H..001"
+        weight: 1
+      - path: "Armature/Bone.008/Dos/Trach\xE9e/P. Av. Dr. H..001/P. Av. Dr. B."
+        weight: 1
+      - path: "Armature/Bone.008/Dos/Trach\xE9e/P. Av. Dr. H..001/P. Av. Dr. B./P.
+          Av. Dr. B._end"
+        weight: 1
+      - path: "Armature/Bone.008/Dos/Trach\xE9e/P. Av. G. H."
+        weight: 1
+      - path: "Armature/Bone.008/Dos/Trach\xE9e/P. Av. G. H./P. Av. G. B.."
+        weight: 1
+      - path: "Armature/Bone.008/Dos/Trach\xE9e/P. Av. G. H./P. Av. G. B../P. Av.
+          G. B.._end"
+        weight: 1
+      - path: Armature/Bone.008/Fesses
+        weight: 1
+      - path: Armature/Bone.008/Fesses/P. Ar. Dr. H.
+        weight: 1
+      - path: Armature/Bone.008/Fesses/P. Ar. Dr. H./P. Ar. Dr. B.
+        weight: 1
+      - path: Armature/Bone.008/Fesses/P. Ar. Dr. H./P. Ar. Dr. B./P. Ar. Dr. B._end
+        weight: 1
+      - path: Armature/Bone.008/Fesses/P. Ar. G. H.
+        weight: 1
+      - path: Armature/Bone.008/Fesses/P. Ar. G. H./P. Ar. G. B.
+        weight: 1
+      - path: Armature/Bone.008/Fesses/P. Ar. G. H./P. Ar. G. B./P. Ar. G. B._end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Mouton
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Action
+      takeName: Armature|Action
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone.008
+        weight: 1
+      - path: Armature/Bone.008/Dos
+        weight: 1
+      - path: Armature/Bone.008/Dos/Cou
+        weight: 1
+      - path: Armature/Bone.008/Dos/Cou/Oreille D.
+        weight: 1
+      - path: Armature/Bone.008/Dos/Cou/Oreille D./Oreille D._end
+        weight: 1
+      - path: Armature/Bone.008/Dos/Cou/Oreille G.
+        weight: 1
+      - path: Armature/Bone.008/Dos/Cou/Oreille G./Oreille G._end
+        weight: 1
+      - path: Armature/Bone.008/Dos/Cou/Tete
+        weight: 1
+      - path: Armature/Bone.008/Dos/Cou/Tete/Tete_end
+        weight: 1
+      - path: "Armature/Bone.008/Dos/Trach\xE9e"
+        weight: 1
+      - path: "Armature/Bone.008/Dos/Trach\xE9e/P. Av. Dr. H..001"
+        weight: 1
+      - path: "Armature/Bone.008/Dos/Trach\xE9e/P. Av. Dr. H..001/P. Av. Dr. B."
+        weight: 1
+      - path: "Armature/Bone.008/Dos/Trach\xE9e/P. Av. Dr. H..001/P. Av. Dr. B./P.
+          Av. Dr. B._end"
+        weight: 1
+      - path: "Armature/Bone.008/Dos/Trach\xE9e/P. Av. G. H."
+        weight: 1
+      - path: "Armature/Bone.008/Dos/Trach\xE9e/P. Av. G. H./P. Av. G. B.."
+        weight: 1
+      - path: "Armature/Bone.008/Dos/Trach\xE9e/P. Av. G. H./P. Av. G. B../P. Av.
+          G. B.._end"
+        weight: 1
+      - path: Armature/Bone.008/Fesses
+        weight: 1
+      - path: Armature/Bone.008/Fesses/P. Ar. Dr. H.
+        weight: 1
+      - path: Armature/Bone.008/Fesses/P. Ar. Dr. H./P. Ar. Dr. B.
+        weight: 1
+      - path: Armature/Bone.008/Fesses/P. Ar. Dr. H./P. Ar. Dr. B./P. Ar. Dr. B._end
+        weight: 1
+      - path: Armature/Bone.008/Fesses/P. Ar. G. H.
+        weight: 1
+      - path: Armature/Bone.008/Fesses/P. Ar. G. H./P. Ar. G. B.
+        weight: 1
+      - path: Armature/Bone.008/Fesses/P. Ar. G. H./P. Ar. G. B./P. Ar. G. B._end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Mouton
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Ballade
+      takeName: Armature|Ballade
+      firstFrame: 0
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone.008
+        weight: 1
+      - path: Armature/Bone.008/Dos
+        weight: 1
+      - path: Armature/Bone.008/Dos/Cou
+        weight: 1
+      - path: Armature/Bone.008/Dos/Cou/Oreille D.
+        weight: 1
+      - path: Armature/Bone.008/Dos/Cou/Oreille D./Oreille D._end
+        weight: 1
+      - path: Armature/Bone.008/Dos/Cou/Oreille G.
+        weight: 1
+      - path: Armature/Bone.008/Dos/Cou/Oreille G./Oreille G._end
+        weight: 1
+      - path: Armature/Bone.008/Dos/Cou/Tete
+        weight: 1
+      - path: Armature/Bone.008/Dos/Cou/Tete/Tete_end
+        weight: 1
+      - path: "Armature/Bone.008/Dos/Trach\xE9e"
+        weight: 1
+      - path: "Armature/Bone.008/Dos/Trach\xE9e/P. Av. Dr. H..001"
+        weight: 1
+      - path: "Armature/Bone.008/Dos/Trach\xE9e/P. Av. Dr. H..001/P. Av. Dr. B."
+        weight: 1
+      - path: "Armature/Bone.008/Dos/Trach\xE9e/P. Av. Dr. H..001/P. Av. Dr. B./P.
+          Av. Dr. B._end"
+        weight: 1
+      - path: "Armature/Bone.008/Dos/Trach\xE9e/P. Av. G. H."
+        weight: 1
+      - path: "Armature/Bone.008/Dos/Trach\xE9e/P. Av. G. H./P. Av. G. B.."
+        weight: 1
+      - path: "Armature/Bone.008/Dos/Trach\xE9e/P. Av. G. H./P. Av. G. B../P. Av.
+          G. B.._end"
+        weight: 1
+      - path: Armature/Bone.008/Fesses
+        weight: 1
+      - path: Armature/Bone.008/Fesses/P. Ar. Dr. H.
+        weight: 1
+      - path: Armature/Bone.008/Fesses/P. Ar. Dr. H./P. Ar. Dr. B.
+        weight: 1
+      - path: Armature/Bone.008/Fesses/P. Ar. Dr. H./P. Ar. Dr. B./P. Ar. Dr. B._end
+        weight: 1
+      - path: Armature/Bone.008/Fesses/P. Ar. G. H.
+        weight: 1
+      - path: Armature/Bone.008/Fesses/P. Ar. G. H./P. Ar. G. B.
+        weight: 1
+      - path: Armature/Bone.008/Fesses/P. Ar. G. H./P. Ar. G. B./P. Ar. G. B._end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Mouton
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Saut
+      takeName: Armature|Saut
+      firstFrame: 0
+      lastFrame: 52
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone.008
+        weight: 1
+      - path: Armature/Bone.008/Dos
+        weight: 1
+      - path: Armature/Bone.008/Dos/Cou
+        weight: 1
+      - path: Armature/Bone.008/Dos/Cou/Oreille D.
+        weight: 1
+      - path: Armature/Bone.008/Dos/Cou/Oreille D./Oreille D._end
+        weight: 1
+      - path: Armature/Bone.008/Dos/Cou/Oreille G.
+        weight: 1
+      - path: Armature/Bone.008/Dos/Cou/Oreille G./Oreille G._end
+        weight: 1
+      - path: Armature/Bone.008/Dos/Cou/Tete
+        weight: 1
+      - path: Armature/Bone.008/Dos/Cou/Tete/Tete_end
+        weight: 1
+      - path: "Armature/Bone.008/Dos/Trach\xE9e"
+        weight: 1
+      - path: "Armature/Bone.008/Dos/Trach\xE9e/P. Av. Dr. H..001"
+        weight: 1
+      - path: "Armature/Bone.008/Dos/Trach\xE9e/P. Av. Dr. H..001/P. Av. Dr. B."
+        weight: 1
+      - path: "Armature/Bone.008/Dos/Trach\xE9e/P. Av. Dr. H..001/P. Av. Dr. B./P.
+          Av. Dr. B._end"
+        weight: 1
+      - path: "Armature/Bone.008/Dos/Trach\xE9e/P. Av. G. H."
+        weight: 1
+      - path: "Armature/Bone.008/Dos/Trach\xE9e/P. Av. G. H./P. Av. G. B.."
+        weight: 1
+      - path: "Armature/Bone.008/Dos/Trach\xE9e/P. Av. G. H./P. Av. G. B../P. Av.
+          G. B.._end"
+        weight: 1
+      - path: Armature/Bone.008/Fesses
+        weight: 1
+      - path: Armature/Bone.008/Fesses/P. Ar. Dr. H.
+        weight: 1
+      - path: Armature/Bone.008/Fesses/P. Ar. Dr. H./P. Ar. Dr. B.
+        weight: 1
+      - path: Armature/Bone.008/Fesses/P. Ar. Dr. H./P. Ar. Dr. B./P. Ar. Dr. B._end
+        weight: 1
+      - path: Armature/Bone.008/Fesses/P. Ar. G. H.
+        weight: 1
+      - path: Armature/Bone.008/Fesses/P. Ar. G. H./P. Ar. G. B.
+        weight: 1
+      - path: Armature/Bone.008/Fesses/P. Ar. G. H./P. Ar. G. B./P. Ar. G. B._end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Mouton
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Saut__haut
+      takeName: Armature|Saut__haut
+      firstFrame: 0
+      lastFrame: 52
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone.008
+        weight: 1
+      - path: Armature/Bone.008/Dos
+        weight: 1
+      - path: Armature/Bone.008/Dos/Cou
+        weight: 1
+      - path: Armature/Bone.008/Dos/Cou/Oreille D.
+        weight: 1
+      - path: Armature/Bone.008/Dos/Cou/Oreille D./Oreille D._end
+        weight: 1
+      - path: Armature/Bone.008/Dos/Cou/Oreille G.
+        weight: 1
+      - path: Armature/Bone.008/Dos/Cou/Oreille G./Oreille G._end
+        weight: 1
+      - path: Armature/Bone.008/Dos/Cou/Tete
+        weight: 1
+      - path: Armature/Bone.008/Dos/Cou/Tete/Tete_end
+        weight: 1
+      - path: "Armature/Bone.008/Dos/Trach\xE9e"
+        weight: 1
+      - path: "Armature/Bone.008/Dos/Trach\xE9e/P. Av. Dr. H..001"
+        weight: 1
+      - path: "Armature/Bone.008/Dos/Trach\xE9e/P. Av. Dr. H..001/P. Av. Dr. B."
+        weight: 1
+      - path: "Armature/Bone.008/Dos/Trach\xE9e/P. Av. Dr. H..001/P. Av. Dr. B./P.
+          Av. Dr. B._end"
+        weight: 1
+      - path: "Armature/Bone.008/Dos/Trach\xE9e/P. Av. G. H."
+        weight: 1
+      - path: "Armature/Bone.008/Dos/Trach\xE9e/P. Av. G. H./P. Av. G. B.."
+        weight: 1
+      - path: "Armature/Bone.008/Dos/Trach\xE9e/P. Av. G. H./P. Av. G. B../P. Av.
+          G. B.._end"
+        weight: 1
+      - path: Armature/Bone.008/Fesses
+        weight: 1
+      - path: Armature/Bone.008/Fesses/P. Ar. Dr. H.
+        weight: 1
+      - path: Armature/Bone.008/Fesses/P. Ar. Dr. H./P. Ar. Dr. B.
+        weight: 1
+      - path: Armature/Bone.008/Fesses/P. Ar. Dr. H./P. Ar. Dr. B./P. Ar. Dr. B._end
+        weight: 1
+      - path: Armature/Bone.008/Fesses/P. Ar. G. H.
+        weight: 1
+      - path: Armature/Bone.008/Fesses/P. Ar. G. H./P. Ar. G. B.
+        weight: 1
+      - path: Armature/Bone.008/Fesses/P. Ar. G. H./P. Ar. G. B./P. Ar. G. B._end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Mouton
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|trottrotte
+      takeName: Armature|trottrotte
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone.008
+        weight: 1
+      - path: Armature/Bone.008/Dos
+        weight: 1
+      - path: Armature/Bone.008/Dos/Cou
+        weight: 1
+      - path: Armature/Bone.008/Dos/Cou/Oreille D.
+        weight: 1
+      - path: Armature/Bone.008/Dos/Cou/Oreille D./Oreille D._end
+        weight: 1
+      - path: Armature/Bone.008/Dos/Cou/Oreille G.
+        weight: 1
+      - path: Armature/Bone.008/Dos/Cou/Oreille G./Oreille G._end
+        weight: 1
+      - path: Armature/Bone.008/Dos/Cou/Tete
+        weight: 1
+      - path: Armature/Bone.008/Dos/Cou/Tete/Tete_end
+        weight: 1
+      - path: "Armature/Bone.008/Dos/Trach\xE9e"
+        weight: 1
+      - path: "Armature/Bone.008/Dos/Trach\xE9e/P. Av. Dr. H..001"
+        weight: 1
+      - path: "Armature/Bone.008/Dos/Trach\xE9e/P. Av. Dr. H..001/P. Av. Dr. B."
+        weight: 1
+      - path: "Armature/Bone.008/Dos/Trach\xE9e/P. Av. Dr. H..001/P. Av. Dr. B./P.
+          Av. Dr. B._end"
+        weight: 1
+      - path: "Armature/Bone.008/Dos/Trach\xE9e/P. Av. G. H."
+        weight: 1
+      - path: "Armature/Bone.008/Dos/Trach\xE9e/P. Av. G. H./P. Av. G. B.."
+        weight: 1
+      - path: "Armature/Bone.008/Dos/Trach\xE9e/P. Av. G. H./P. Av. G. B../P. Av.
+          G. B.._end"
+        weight: 1
+      - path: Armature/Bone.008/Fesses
+        weight: 1
+      - path: Armature/Bone.008/Fesses/P. Ar. Dr. H.
+        weight: 1
+      - path: Armature/Bone.008/Fesses/P. Ar. Dr. H./P. Ar. Dr. B.
+        weight: 1
+      - path: Armature/Bone.008/Fesses/P. Ar. Dr. H./P. Ar. Dr. B./P. Ar. Dr. B._end
+        weight: 1
+      - path: Armature/Bone.008/Fesses/P. Ar. G. H.
+        weight: 1
+      - path: Armature/Bone.008/Fesses/P. Ar. G. H./P. Ar. G. B.
+        weight: 1
+      - path: Armature/Bone.008/Fesses/P. Ar. G. H./P. Ar. G. B./P. Ar. G. B._end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Mouton
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
